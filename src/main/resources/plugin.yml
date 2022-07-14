@@ -1,0 +1,10 @@
+name: Andora
+version: '${project.version}'
+main: fr.kizafox.andora.Andora
+api-version: 1.18
+authors: [ KIZAFOX ]
+description: Andora plugin description
+website: https://kizafox.fr
+
+commands:
+  andora:
